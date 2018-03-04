@@ -1,0 +1,9 @@
+Finished at 4:08am on 3/4/2018 - Continued to improve after
+
+TO RUN!!!
+
+1. Attach Arduino sensor to comp USB Port
+2. Start up VS .exe file
+3. Start up Python .exe file
+4. refresh parking map each time to have an updated number
+
